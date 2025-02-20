@@ -757,10 +757,7 @@ body {
     gap: 48px;
   }
   
-  .portfolio-item {
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-      0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-  }
+  
   
   .name-app {
     display: flex;
@@ -867,15 +864,25 @@ body {
     gap: 72px;
   }
   
-  .footer-logo {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 16px;
+  .header-logo {
+     
+      margin-right: 76px;
+    
+      color: rgb(77, 90, 229);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-align: left;
+  text-transform: uppercase;
+   }
+   
+  .logo-part {
+   color: #f4f4fd;
+  
   }
   
-  .footer-logo .footer-logo-part {
-    color: #f4f4fd;
-  }
   
   .footer-text {
     max-width: 264px;
