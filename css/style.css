@@ -404,7 +404,7 @@ body {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people.jpg);
+      url(../images/background-picture/people-office\ 1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -419,7 +419,7 @@ body {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url("../images/people.jpg");
+        url("../images/background-picture/Dark-bg@2x-min-1.jpg");
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
@@ -472,7 +472,7 @@ body {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url("../images/people.jpg");
+        url(../images/background-picture/Dark-bg-min.jpg);
     }
   
     @media (min-device-pixel-ratio: 2),
@@ -483,7 +483,7 @@ body {
             rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)
           ),
-          url("../images/hero/hero-tablet@2x-min.jpg");
+          url("../images/background-picture/Dark-bg@2x-min.jpg");
       }
     }
   
@@ -504,7 +504,7 @@ body {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url("../images/people.jpg");
+        url(../images/background-picture/people-office\ 1.jpg);
     }
   
     @media (min-device-pixel-ratio: 2),
@@ -515,7 +515,7 @@ body {
             rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)
           ),
-          url("../images/people.jpg");
+          url("../images/background-picture/people-office\ 1@2x.jpg");
       }
     }
   
